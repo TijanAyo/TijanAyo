@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tijani Ayomide</h1>
 <h3 align="center">Software Developer. Technical Writer✍️. Developer Advocate🥑. Mobile Dev Enthusiasts📱</h3>
 
-- 🌱 I’m currently learning **Flutter, Node js**
+- 🌱 I’m currently learning **JavaScript, Node Js, Flutter**
 
 - 📝 I regularly write articles on [https://tijan.hashnode.dev/](https://tijan.hashnode.dev/)
 
