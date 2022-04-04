@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tijani Ayomide</h1>
+<h1 align="center">おい 👋, I'm Tijani Ayomide</h1>
 <h3 align="center">Software Developer. Technical Writer✍️. Developer Advocate🥑. Mobile Dev Enthusiasts📱</h3>
 
-- 🌱 I’m currently learning **Nest js, Node Js, Typescript**
+- 🌱 I’m currently learning **Nest js, Typescript**
 
 - 📝 I regularly write articles on [https://tijan.hashnode.dev/](https://tijan.hashnode.dev/)
 
