@@ -1,5 +1,5 @@
 <h1 align="center">おい 👋, I'm Tijani Ayomide</h1>
-<h3 align="center">Software Developer. Technical Writer✍️. Aspiring Developer Advocate🥑.</h3>
+<h3 align="center">Developer. Technical Writer✍️. Aspiring Senior Developer🥑.</h3>
 
 <p align="left"> <a href="https://twitter.com/tijan_io" target="blank"><img src="https://img.shields.io/twitter/follow/tijan_io?logo=twitter&style=for-the-badge" alt="tijan_io" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects, Startups, Hackathons**
 
-- 📝 I regularly write articles on [https://tijan.hashnode.dev & https://dev.to/tijan_io](https://tijan.hashnode.dev & https://dev.to/tijan_io)
+- 📝 I regularly write articles on [**Hashnode**](https://tijan.hashnode.dev) and [**DEV.to**](https://dev.to/tijan_io)
 
 - 💬 Ask me about **Python, Django, Node JS,**
 
