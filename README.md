@@ -1,5 +1,5 @@
 <h1 align="center">おい 👋, I'm Tijani Ayomide</h1>
-<h3 align="center">Developer. Technical Writer✍️. Aspiring Senior Developer🥑.</h3>
+<h3 align="center">Software Engineer. Technical Writer✍️. Aspiring Senior Developer🥑.</h3>
 
 <p align="left"> <a href="https://twitter.com/tijan_io" target="blank"><img src="https://img.shields.io/twitter/follow/tijan_io?logo=twitter&style=for-the-badge" alt="tijan_io" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayomidetijani6@gmail.com**
 
-- ⚡ Fun fact **Take a break and you will come back refreshed**
+- ⚡ Fun fact ** You get better inspiration doing the most unproductive things **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
