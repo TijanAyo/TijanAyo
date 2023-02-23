@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/tijan_io" target="blank"><img src="https://img.shields.io/twitter/follow/tijan_io?logo=twitter&style=for-the-badge" alt="tijan_io" /></a> </p>
 
-- 🌱 I’m currently learning **Nest JS, Typescript, Docker, Redis**
+- 🌱 I’m currently learning **Java, NestJs, Typescript, Docker, Redis**
 
 - 👯 I’m looking to collaborate on **Projects, Startups, Hackathons**
 
 - 📝 I regularly write articles on [**Hashnode**](https://tijan.hashnode.dev) and [**DEV.to**](https://dev.to/tijan_io)
 
-- 💬 Ask me about **Python, Django, Node JS,**
+- 💬 Ask me about **Javascript, Typescript, NestJS, Java and all thing backend development**
 
 - 📫 How to reach me **ayomidetijani6@gmail.com**
 
-- ⚡ Fun fact **Watching anime makes you 10x more productive**
+- ⚡ Fun fact **Take a break and you will come back refreshed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
