@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayomidetijani6@gmail.com**
 
-- ⚡ Fun fact ** You get better inspiration doing the most unproductive things **
+- ⚡ Fun fact **You get better inspiration doing the most unproductive things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
