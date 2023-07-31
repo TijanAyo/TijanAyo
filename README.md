@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
+- [Which Case is Best for Your Coding Style](https://dev.to/tijan_io/which-case-is-best-for-your-coding-style-135o)
+- [API Limiting: Best Practices and Implementation](https://dev.to/tijan_io/api-limiting-best-practices-and-implementation-49c8)
+- [Understanding the Basics of ACID Principles in Database Management](https://dev.to/tijan_io/understanding-the-basics-of-acid-principles-in-database-management-3937)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
