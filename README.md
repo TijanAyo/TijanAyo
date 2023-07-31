@@ -11,7 +11,7 @@
 
 - ⚡ Riddle Me This:  **On ísenum sceadum, mín hyrd þurhgrýpan, tó lácan mín wísdóm, án biþ tó mæðcan. Hwæt eom ic?**
 
-### Blogs posts
+### Latest Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
