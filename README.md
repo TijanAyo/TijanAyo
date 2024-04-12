@@ -1,24 +1,24 @@
 <h1 align="center">おい 👋, I'm Tijani Ayomide</h1>
 <h3 align="center">Software Engineer. Technical Writer✍️. Aspiring Principal Enginner</h3>
 
-```json
+```yaml
 {
   "aspiration": "Striving towards becoming a Principal Engineer 👨‍💻",
   "pronouns": "He/Him",
-  "contact": {
-    "email": "ayomidetijani6@gmail.com"
-  },
-  "inspiration": {
-    "source": "Japanese philosophy",
-    "content": "改善",
-    "concept": "Kaizen",
-    "meaning": "Continuous improvement",
-  },
-  "aboutMe": "Hey there! I'm Tijani Ayomide (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems. I've dabbled in diverse technologies and honed my skills in crafting clean and efficient code.
+  "contact": { "email": "ayomidetijani6@gmail.com" },
+  "inspiration":
+    {
+      "source": "Japanese philosophy",
+      "content": "改善",
+      "concept": "Kaizen",
+      "meaning": "Continuous improvement",
+    },
+  "aboutMe":
+    "Hey there! I'm Tijani Ayomide (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems. I've dabbled in diverse technologies and honed my skills in crafting clean and efficient code.
 
-  I thrive in collaborative environments and pride myself on being a dedicated team player with exceptional communication skills 💬. Whether it's solving complex problems or brainstorming innovative solutions, I'm committed to achieving collective goals while continuously pushing the boundaries of what's possible 🚀.
+    I thrive in collaborative environments and pride myself on being a dedicated team player with exceptional communication skills 💬. Whether it's solving complex problems or brainstorming innovative solutions, I'm committed to achieving collective goals while continuously pushing the boundaries of what's possible 🚀.
 
-  If you're passionate about technology and love to collaborate on exciting projects, don't hesitate to reach out! I'm always eager to connect with fellow developers and explore new opportunities for growth and innovation 🌱."
+    If you're passionate about technology and love to collaborate on exciting projects, don't hesitate to reach out! I'm always eager to connect with fellow developers and explore new opportunities for growth and innovation 🌱.",
 }
 ```
 
