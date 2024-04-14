@@ -30,7 +30,6 @@
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [From Postman to Postman Extension](https://dev.to/tijan_io/from-postman-to-postman-extension-2964)
 - [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
 - [Which Case is Best for Your Coding Style](https://dev.to/tijan_io/which-case-is-best-for-your-coding-style-135o)
