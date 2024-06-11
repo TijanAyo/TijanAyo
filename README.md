@@ -3,7 +3,6 @@
 
 ```yaml
 {
-  "aspiration": "Striving towards becoming a Principal Engineer 👨‍💻",
   "pronouns": "He/Him",
   "contact": { "email": "ayomidetijani6@gmail.com" },
   "inspiration":
