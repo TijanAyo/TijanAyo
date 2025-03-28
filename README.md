@@ -1,4 +1,4 @@
-<h1 align="center">おい 👋, I'm Tijani Ayomide</h1>
+<h1 align="center">おい 👋, I'm Ayomide Tijani</h1>
 <h3 align="center">Software Engineer. Technical Writer✍️. Aspiring Principal Enginner</h3>
 
 ```yaml
@@ -7,10 +7,10 @@
   "contact": { "email": "ayomidetijani6@gmail.com" },
   "inspiration":
     {
-      "source": "Japanese philosophy",
-      "content": "改善",
-      "concept": "Kaizen",
-      "meaning": "Continuous improvement",
+      "Source": "Japanese philosophy",
+      "Content": "改善",
+      "Concept": "Kaizen",
+      "Meaning": "Continuous improvement",
     },
   "aboutMe":
     "Hey there! I'm Tijani Ayomide (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems.
