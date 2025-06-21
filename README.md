@@ -1,5 +1,5 @@
 <h1 align="center">おい 👋, I'm Ayomide Tijani</h1>
-<h3 align="center">Software Engineer. Technical Writer✍️. Aspiring Principal Enginner</h3>
+<h3 align="center">Software Engineer · Technical Writer ✍️ · Aspiring Principal Engineer</h3>
 
 ```yaml
 {
@@ -13,7 +13,7 @@
       "Meaning": "Continuous improvement",
     },
   "aboutMe":
-    "Hey there! I'm Tijani Ayomide (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems.
+    "Hey there! I'm Ayomide Tijani (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems.
     I've dabbled in diverse technologies and honed my skills in crafting clean and efficient code.
 
     I thrive in collaborative environments and pride myself on being a dedicated team player with
