@@ -4,26 +4,26 @@
 ```yaml
 {
   "pronouns": "He/Him",
-  "contact": { "email": "ayomidetijani6@gmail.com" },
-  "inspiration":
-    {
-      "Source": "Japanese philosophy",
-      "Content": "改善",
-      "Concept": "Kaizen",
-      "Meaning": "Continuous improvement",
-    },
-  "aboutMe":
-    "Hey there! I'm Ayomide Tijani (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems.
-    I've dabbled in diverse technologies and honed my skills in crafting clean and efficient code.
-
-    I thrive in collaborative environments and pride myself on being a dedicated team player with
-    exceptional communication skills 💬. Whether it's solving complex problems or brainstorming innovative
-    solutions, I'm committed to achieving collective goals while continuously pushing the boundaries of what's possible 🚀.
-
-    If you're passionate about technology and love to collaborate on exciting projects, don't
-    hesitate to reach out! I'm always eager to connect with fellow developers and explore new opportunities
-    for growth and innovation 🌱.",
+  "contact": {
+    "email": "ayomidetijani6@gmail.com"
+  },
+  "inspiration": {
+    "source": "Japanese Philosophy",
+    "content": "改善",
+    "concept": "Kaizen",
+    "meaning": "Continuous Improvement"
+  },
+ "aboutMe": [
+    "Hey there! I'm Ayomide Tijani (Tijan), a software engineer passionate about building reliable, user-friendly systems.",
+    "I’ve explored a wide range of technologies and take pride in writing clean, efficient, and maintainable code.",
+    "I thrive in collaborative environments and value being a thoughtful team player with strong communication skills 💬.",
+    "Whether it’s solving complex problems or exploring new ideas, I’m always excited to contribute to meaningful projects and push boundaries 🚀.",
+    "I'm deeply curious and enjoy learning across different fields—from tech and design to philosophy and business.",
+    "If you’re working on something interesting or just want to chat and share ideas, feel free to reach out.",
+    "I’m always open to new perspectives and opportunities for growth 🌱."
+  ]
 }
+
 ```
 
 ### Latest Articles
