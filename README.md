@@ -29,10 +29,10 @@
 ### Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Taste, Craft, or Something More?](https://dev.to/tijan_io/taste-craft-or-something-more-21p3)
 - [From Postman to Postman Extension](https://dev.to/tijan_io/from-postman-to-postman-extension-2964)
 - [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
 - [Which Case is Best for Your Coding Style](https://dev.to/tijan_io/which-case-is-best-for-your-coding-style-135o)
-- [API Limiting: Best Practices and Implementation](https://dev.to/tijan_io/api-limiting-best-practices-and-implementation-49c8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
