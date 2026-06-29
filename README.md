@@ -1,44 +1,29 @@
 <h1 align="center">おい 👋, I'm Ayomide Tijani</h1>
-<h3 align="center">Software Engineer · Technical Writer ✍️ · Aspiring Principal Engineer</h3>
+<h3 align="center">Software Engineer · Technical Writer ✍️ </h3>
 
 ```yaml
 {
   "pronouns": "He/Him",
+
   "contact": {
     "email": "ayomidetijani6@gmail.com"
   },
-  "inspiration": {
+
+  "philosophy": {
     "source": "Japanese Philosophy",
     "content": "改善",
     "concept": "Kaizen",
     "meaning": "Continuous Improvement"
   },
- "aboutMe": [
-    "Hey there! I'm Ayomide Tijani (Tijan), a software engineer passionate about building reliable, user-friendly systems.",
-    "I’ve explored a wide range of technologies and take pride in writing clean, efficient, and maintainable code.",
-    "I thrive in collaborative environments and value being a thoughtful team player with strong communication skills 💬.",
-    "Whether it’s solving complex problems or exploring new ideas, I’m always excited to contribute to meaningful projects and push boundaries 🚀.",
-    "I'm deeply curious and enjoy learning across different fields—from tech and design to philosophy and business.",
-    "If you’re working on something interesting or just want to chat and share ideas, feel free to reach out.",
-    "I’m always open to new perspectives and opportunities for growth 🌱."
+
+  "about": [
+    "Hi, I'm Ayomide Tijani (Tijan). I enjoy building software that stays simple even when the problems aren't.",
+    "Most of my work lives in backend engineering, distributed systems and infrastructure, where reliability matters just as much as features.",
+    "I like understanding systems from first principles before deciding how to build them.",
+    "Lately I've been exploring the intersection of software engineering, AI, product design and business.",
+    "I'm convinced that good engineering is less about clever code and more about good judgment.",
+    "Always learning. Always refining. One improvement at a time."
   ]
 }
 
 ```
-
-### Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Taste, Craft, or Something More?](https://dev.to/tijan_io/taste-craft-or-something-more-21p3)
-- [From Postman to Postman Extension](https://dev.to/tijan_io/from-postman-to-postman-extension-2964)
-- [Understanding dependencies and dev-dependencies: Beginner’s Guide](https://dev.to/tijan_io/understanding-dependencies-and-dev-dependencies-beginners-guide-248h)
-- [Which Case is Best for Your Coding Style](https://dev.to/tijan_io/which-case-is-best-for-your-coding-style-135o)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/tijan_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tijan_io" height="30" width="40" /></a>
-<a href="https://twitter.com/tijan_io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tijan_io" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tijanayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tijanayo" height="30" width="40" /></a>
-<a href="https://hashnode.com/@tijan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tijan" height="30" width="40" /></a>
-</p>
